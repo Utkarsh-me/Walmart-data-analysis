@@ -60,6 +60,5 @@ This project focuses on analyzing Walmart data to uncover actionable insights th
 ## Contact
 For queries or collaborations, feel free to reach out:
 - **Name**: Utkarsh Kulkarni
-- **Email**: [your-kulkarniutkarsh19@gmail.com.com]
-- **GitHub**: [https://github.com/<your-username>](https://github.com/<your-username>)
+- **Email**: [kulkarniutkarsh19@gmail.com.com]
 
